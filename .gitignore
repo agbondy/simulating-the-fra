@@ -1,0 +1,6 @@
+data/
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*_test.ipynb
+*_precincts.json
